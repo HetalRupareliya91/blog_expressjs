@@ -1,0 +1,42 @@
+{
+  "main": [
+    {
+      "name": "Pricing",
+      "url": "/about"
+    },
+    {
+      "name": "Blogs",
+      "url": "/elements"
+    },
+    {
+      "name": "Log in",
+      "url": "/contact"
+    },
+    {
+      "name": "Sign up",
+      "url": ""
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Pricing",
+      "url": "/about"
+    },
+    {
+      "name": "Blogs",
+      "url": "/contact"
+    },
+    {
+      "name": "Careers",
+      "url": "#"
+    },
+    {
+      "name": "Partnerships",
+      "url": "#"
+    }
+  ]
+}
